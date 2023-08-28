@@ -1,18 +1,27 @@
-## Getting Started
+# Desafio Santander Java - ContaTerminal
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um projeto de um desafio do Santander Java Bootcamp. O programa ContaTerminal é uma aplicação simples que permite que um usuário insira informações sobre uma conta bancária e, em seguida, exibe os detalhes da conta.
 
-## Folder Structure
+## Requisitos
 
-The workspace contains two folders by default, where:
+Certifique-se de ter o Java instalado na sua máquina para executar o projeto.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Como Executar
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. Abra um terminal e navegue até a pasta do projeto.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+2. Compile o programa executando o seguinte comando:
 
-## Dependency Management
+   ```bash
+   javac ContaTerminal.java
+   
+     java ContaTerminal
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Siga as instruções para inserir os detalhes da conta quando solicitado.
+
+O programa exibirá os detalhes da conta na saída.
+
+## Contribuição
+
+
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções ou novas funcionalidades.
